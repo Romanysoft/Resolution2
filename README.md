@@ -1,7 +1,9 @@
 Resolution2
 ===========
 
-[goto Issues](https://github.com/Romanysoft/Resolution2/issues)
+
+![](http://res.cloudinary.com/dfzokzfi5/image/upload/c_scale,w_64/v1411701503/20140926111811529_easyicon_net_128_x1jerm.png)
+[Issues](https://github.com/Romanysoft/Resolution2/issues)
 
 
 ![](https://github.com/Romanysoft/Resolution2/blob/master/Images/logo_64.png)
