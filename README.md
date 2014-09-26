@@ -1,12 +1,10 @@
-Resolution2
+![](https://github.com/Romanysoft/Resolution2/blob/master/Images/logo_64.png) Resolution2
 ===========
 
 
 ![](http://res.cloudinary.com/dfzokzfi5/image/upload/c_scale,w_64/v1411701503/20140926111811529_easyicon_net_128_x1jerm.png)
 [Issues](https://github.com/Romanysoft/Resolution2/issues)
 
-
-![](https://github.com/Romanysoft/Resolution2/blob/master/Images/logo_64.png)
 
 [![](http://res.cloudinary.com/dfzokzfi5/image/upload/c_scale,w_124/v1411092419/app-store-button_pw05je.png)](https://itunes.apple.com/us/app/resolution2/id918100130?l=zh&ls=1&mt=12)
 
