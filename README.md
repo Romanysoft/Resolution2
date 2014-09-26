@@ -1,6 +1,7 @@
 Resolution2
 ===========
 
+[goto Issues](https://github.com/Romanysoft/Resolution2/issues)
 
 
 ![](https://github.com/Romanysoft/Resolution2/blob/master/Images/logo_64.png)
