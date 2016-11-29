@@ -54,3 +54,7 @@ Main Features:
 
 ![](https://github.com/Romanysoft/Resolution2/blob/master/Images/2014-09-01_224038.jpg)
 
+
+** Refrences **
+
+http://www.macrumors.com/guide/4k-5k-displays-buyers-guide-mac/
